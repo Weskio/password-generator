@@ -23,7 +23,7 @@
     border-radius: 50%;
     position: relative;
     z-index: 2;
-    box-shadow: -410px 0 0 400px  #C7FFC2;
+    box-shadow: -710px 0 0 700px  #C7FFC2;
 }
 
 .range-slider::before {
@@ -54,3 +54,24 @@
     background: #000;
     border-radius: 0.25rem;
 }
+
+.red {
+    background-color: red;
+  }
+  
+  .orange {
+    background-color: orange;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .light-green {
+    background-color: lightgreen;
+  }
+  
+  .green {
+    background-color: green;
+  }
+  
